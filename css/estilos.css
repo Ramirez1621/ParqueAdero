@@ -1,0 +1,28 @@
+/* html{
+	height: 100%;
+	width: 100%;
+} */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+	background: url(https://c8.alamy.com/compes/j1cc0d/vacia-la-mesa-de-madera-clara-con-borrosa-en-la-cafeteria-de-fondo-puede-utilizarse-para-mostrar-los-productos-de-montage-o-clave-de-diseno-diseno-visual-j1cc0d.jpg) no-repeat center center fixed; 
+}
+
+.main-container{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main-container .main-container > .hero-body{
+	height: auto;
+	width: 100%;
+	max-width: 400px;
+	min-width: 300px;
+}
+
+.form-inline{
+	display: inline-flex;
+}
