@@ -48,4 +48,4 @@ El proyecto fue desarrollado utilizando un **modelo MVC** (Modelo-Vista-Controla
 
 ## Autores
 
-    Ramirez1621 - Desarrollador
+   Ramirez1621 - Desarrollador
