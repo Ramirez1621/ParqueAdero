@@ -40,12 +40,12 @@ El proyecto fue desarrollado utilizando un **modelo MVC** (Modelo-Vista-Controla
 
     http://localhost/ParqueAdero
 
-Uso
+## Uso
 
 1. Registra los vehículos en el sistema, indicando si son visitantes o locales.
 2. Utiliza los filtros disponibles para buscar por área de parqueo, tipo de vehículo o parqueadero específico.
 3. Administra el inventario de los vehículos de manera eficiente.
 
-Autores
+## Autores
 
     Ramirez1621 - Desarrollador
